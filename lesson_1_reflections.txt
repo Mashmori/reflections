@@ -1,0 +1,26 @@
+It compare the lines and diplay the added lines and the removed lines
+so it become easy to compare the changed lines only than compering the whole files
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+1-some time you made change in some files and discover that you want to rolebace bacouse the provous version was batter
+2-you may modify some file in working program and it does not work any more you can compare the prevous version to discove what is wrong
+3- As project manager you can view the history of the project and comper the achivment progress accordding to the devlepment plan to evalute the team member also you can invest this experince with the coming applications
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+pros:
+1-change is in logical unit which mean each commit is finished unit of the devlopment process 
+2- keep track of devlepment according to your plan
+
+cons
+1- unlogical code will be save 
+2- more than required versions will be saved
+3- auto will save virsions even no edit on it 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+because the aren't code oriented
+
+How can you use the commands git log and git diff to view the history of files?
+git log list all the commites which has been made.
+git diff compare two commits depend on the commit id which you can get by using git log command
+
+How might using version control make you more confident to make changes that could break something?
+I can do any change with out being afriad of breaking the program becaouse I can revert to the previous state easly

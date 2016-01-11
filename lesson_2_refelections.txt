@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+It create hidden file called .git which include metedate for git
+I should do it to initilaize the dirctory to became git repository
+
