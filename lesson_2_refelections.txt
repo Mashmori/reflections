@@ -7,4 +7,12 @@ How is the staging area different from the working directory and the repository?
 the working directory can include file that are not trucked by git while the staging area is where you add the files to be trucked by git
 the repository contains the commits which is snapshot of all files in spesific time 
 
-sdfasd
+How can you use the staging area to make sure you have one commit per logical change?
+I should stage each related files and commit them than stage the others which are irrelated and commit them.
+In other word, I should stage only the files which include one logical change and commit them,and so on.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Experimental new feature
+create different version 
+do some experimental changes 
+
