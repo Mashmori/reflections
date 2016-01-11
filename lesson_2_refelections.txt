@@ -2,3 +2,9 @@ What happens when you initialize a repository? Why do you need to do it?
 It create hidden file called .git which include metedate for git
 I should do it to initilaize the dirctory to became git repository
 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+the working directory can include file that are not trucked by git while the staging area is where you add the files to be trucked by git
+the repository contains the commits which is snapshot of all files in spesific time 
+
+sdfasd
