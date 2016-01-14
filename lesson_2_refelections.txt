@@ -16,3 +16,13 @@ Experimental new feature
 create different version 
 do some experimental changes 
 
+How do the diagrams help you visualize the branch structure?
+you can determine the master branch and the other branches and the merge points
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+After do merge new commit created and the checkedout branch label will be moved to the new commit
+because the master and coint last commit are the parent of that commit 
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
